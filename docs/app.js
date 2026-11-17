@@ -197,7 +197,7 @@ function topicView() {
           <div class="meta">
             ${esc(topic.speaker)}
             ${topic.answerer
-              ? ' · Answerer: <strong>' + esc(topic.answerer) + '</strong>'
+              ? ' · <strong>' + esc(topic.answerer) + '</strong>'
               : ""}
           </div>
         </div>

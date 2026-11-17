@@ -155,7 +155,7 @@ function topicView() {
           <span class="title">${esc(t.title)}</span>
           <div class="meta">
             ${esc(t.speaker)}
-            ${t.answerer ? "· Answerer: "+esc(t.answerer) : ""}
+            ${t.answerer ? "· <strong> "+esc(t.answerer) : ""}
           </div>
         </div>
 

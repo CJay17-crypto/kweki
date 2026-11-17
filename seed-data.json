@@ -1,0 +1,112 @@
+[
+  {
+    "part": "a",
+    "speaker": "Speaker 1",
+    "answerer": "Cabardo",
+    "questions": [
+      "Why would the complete absence of greenhouse gases make Earth uninhabitable, even though we currently view them as a major threat?",
+      "If Earth is constantly absorbing shortwave solar radiation from the sun, why doesn't the planet naturally overheat under normal conditions?",
+      "How does the analogy of \"glass panes of a greenhouse\" accurately explain the difference between incoming and outgoing radiation?"
+    ]
+  },
+  {
+    "part": "b",
+    "speaker": "Speaker 2",
+    "answerer": "Perpetua",
+    "questions": [
+      "Greenhouse gases make up less than 1% of Earth's atmosphere alongside Nitrogen (78%) and Oxygen (21%). Why is a 38% increase in CO2 within that tiny fraction enough to disrupt the entire planet's climate?",
+      "Why is the Industrial Revolution in the late 1700s used as the baseline for measuring modern climate change?",
+      "How do clearing forests and burning fossil fuels work together to accelerate the Enhanced Greenhouse Effect?"
+    ]
+  },
+  {
+    "part": "c",
+    "speaker": "Speaker 3",
+    "answerer": "Gonzales",
+    "questions": [
+      "If water vapor is the most abundant heat-trapping gas, why do environmental policies focus more on regulating CO2, methane, nitrous oxide, and synthetic gases?",
+      "Why would someone living in a region that never gets hit by a typhoon or extreme heatwave still face severe health risks from climate change?",
+      "How does ground-level air pollution connect climate change to cardio-respiratory illnesses?"
+    ]
+  },
+  {
+    "part": "f",
+    "speaker": "Speaker 3",
+    "answerer": "Gonzales",
+    "questions": [
+      "If water vapor is the most abundant heat-trapping gas, why do environmental policies focus more on regulating CO2, methane, nitrous oxide, and synthetic gases?",
+      "Why would someone living in a region that never gets hit by a typhoon or extreme heatwave still face severe health risks from climate change?",
+      "How does ground-level air pollution connect climate change to cardio-respiratory illnesses?"
+    ]
+  },
+  {
+    "part": "d",
+    "speaker": "Speaker 4",
+    "answerer": "Echavez",
+    "questions": [
+      "Why does the Paris Agreement require cutting global CO2 emissions by 45% by 2030 if the ultimate deadline for net-zero emissions is 2050?",
+      "What operational advantage does Ocean Thermal Energy Conversion (OTEC) have over traditional solar or wind power?",
+      "Why is transitioning to renewables described as preventing both \"environmental collapse\" and \"economic disruption\"?"
+    ]
+  },
+  {
+    "part": "h",
+    "speaker": "Speaker 4",
+    "answerer": "Echavez",
+    "questions": [
+      "Why does the Paris Agreement require cutting global CO2 emissions by 45% by 2030 if the ultimate deadline for net-zero emissions is 2050?",
+      "What operational advantage does Ocean Thermal Energy Conversion (OTEC) have over traditional solar or wind power?",
+      "Why is transitioning to renewables described as preventing both \"environmental collapse\" and \"economic disruption\"?"
+    ]
+  },
+  {
+    "part": "e",
+    "speaker": "Speaker 5",
+    "answerer": "Nguho",
+    "questions": [
+      "How can global warming simultaneously cause worsening droughts in some areas and rising sea levels or intense cyclones in others?",
+      "Why is coral reef bleaching linked to accelerated species extinction in the ocean?",
+      "Why do rising sea levels represent an \"existential risk\" rather than just a temporary weather inconvenience for low-lying island nations?"
+    ]
+  },
+  {
+    "part": "g",
+    "speaker": "Speaker 6",
+    "answerer": "Caterial",
+    "questions": [
+      "How can a nation still experience an energy crisis even if it has abundant reserves of coal, oil, or natural gas?",
+      "Why do geopolitical conflicts—like the 1990 Gulf War or recent conflicts in the Middle East—immediately trigger global oil price hikes?",
+      "Why is leaving renewable energy options \"unexplored\" considered a direct cause of global energy crises?"
+    ]
+  },
+  {
+    "part": "j",
+    "speaker": "Speaker 7",
+    "answerer": "Torres",
+    "questions": [
+      "How does restoring mangrove forests solve both a global climate problem and a local Philippine disaster risk at the same time?",
+      "Why is replacing incandescent bulbs with LEDs and minimizing air conditioning considered a direct climate mitigation action rather than just a way to save money?",
+      "If government policies already target large-scale renewable energy projects, why are individual actions like the 3Rs, biking, and backyard gardening still necessary?"
+    ]
+  },
+  {
+    "part": "i",
+    "speaker": "Speaker 8",
+    "answerer": "Joromo",
+    "questions": [
+      "Why does the Philippines' geography as a \"megadiverse yet highly vulnerable archipelagic nation\" require balancing both mitigation and adaptation?",
+      "If science and technology already provide the tools to measure, predict, and replace fossil fuels with clean energy, why is the climate crisis still unresolved?",
+      "What happens to \"scientific progress\" if society fails to pair it with environmental consciousness?"
+    ]
+  },
+  {
+    "part": "k",
+    "speaker": "Speaker 8",
+    "answerer": "Joromo",
+    "questions": [
+      "Why does the Philippines' geography as a \"megadiverse yet highly vulnerable archipelagic nation\" require balancing both mitigation and adaptation?",
+      "If science and technology already provide the tools to measure, predict, and replace fossil fuels with clean energy, why is the climate crisis still unresolved?",
+      "What happens to \"scientific progress\" if society fails to pair it with environmental consciousness?"
+    ]
+  }
+]
